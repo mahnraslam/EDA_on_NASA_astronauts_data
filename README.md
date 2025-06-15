@@ -1,4 +1,4 @@
-# 🧑‍🚀 NASA Astronauts – EDA & Spacewalk Prediction App
+#  NASA Astronauts – EDA & Spacewalk Prediction App 🚀
 
 This project explores the NASA Astronauts dataset through **Exploratory Data Analysis (EDA)** and builds a **Streamlit web app** to predict whether an astronaut is likely to perform a **spacewalk**, using a **Random Forest Classifier**.
 
