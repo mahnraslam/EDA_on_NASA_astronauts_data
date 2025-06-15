@@ -63,8 +63,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
----
+ 
 
 ## 📦 Requirements
 
@@ -74,9 +73,4 @@ streamlit run app.py
 - scikit-learn  
 - streamlit  
 
- 
-
-## 📚 Data Source
-
-[NASA Astronauts Dataset](https://www.kaggle.com/nasa/astronaut-dataset)
  
