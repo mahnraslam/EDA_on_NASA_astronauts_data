@@ -33,7 +33,7 @@ nasa-astronauts/
 ## 📌 Features
 
 ### 🔍 Exploratory Data Analysis (EDA)
-- Trend analysis by **year, gender, and nationality**
+- Trend analysis by **year 
 - Visualization of **spaceflight hours** and **mission counts**
 - **Correlation heatmaps** to detect feature relationships
 - Handling **missing values** with appropriate strategies
